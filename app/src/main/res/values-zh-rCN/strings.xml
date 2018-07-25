@@ -1,0 +1,10 @@
+<resources>
+  <string name="btn1">ID搜索画师</string>
+	<string name="btn2">ID搜索插画</string>
+	<string name="btn3">ID搜索小说</string>
+	<string name="cancel">取消</string>
+	<string name="dialog1_title">请输入画师ID</string>
+	<string name="dialog2_title">请输入插画ID</string>
+	<string name="dialog3_title">请输入小说ID</string>
+	<string name="search">搜索</string>
+</resources>
