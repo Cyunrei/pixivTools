@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name"><b>pixiv</b><i>Tools</i></string>
+    <string name="btn1">ID Search Painter</string>
+	<string name="btn2">ID Search Illustration</string>
+	<string name="btn3">ID Search Novel</string>
+	<string name="cancel">Cancel</string>
+	<string name="dialog1_title">Please input painter ID</string>
+	<string name="dialog1_uri">https://www.pixiv.net/member.php?id=</string>
+	<string name="dialog2_title">Please input illustration ID</string>
+	<string name="dialog2_uri">https://www.pixiv.net/member_illust.php?mode=medium&amp;illust_id=</string>
+	<string name="dialog3_title">Please input novel ID</string>
+	<string name="dialog3_uri">https://www.pixiv.net/novel/show.php?id=</string>
+	<string name="search">Serach</string>
+</resources>
